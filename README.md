@@ -1,7 +1,7 @@
-###  The Legacy Scroll ###
+# The Legacy Scroll #
 
 
-## A Character Matching Engine with Fuzzy Logic ## -“Every woman carries the echo of legends before her — this scroll merely helps her hear it.”
+## A Character Matching Engine with Fuzzy Logic   -“Every woman carries the echo of legends before her — this scroll merely helps her hear it.”
 
 Overview
 The Legacy Scroll is a fusion of data science and storytelling — a tool that lets girls and women discover which iconic figure (from Disney princesses to real-world queens) mirrors their essence the most.
