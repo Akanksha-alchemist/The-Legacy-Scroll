@@ -9,7 +9,7 @@ By entering their traits, core motivation, and field of passion, the system reve
 
 
 ---
-##  How It Works
+##  How It Works...
 
 1. The dataset (CSV) contains various **characters and their defining traits, motivations, and fields**.
 2. The data is processed using **Pandas** into a clean DataFrame.
